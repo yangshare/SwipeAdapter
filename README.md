@@ -1,0 +1,2 @@
+# SwipeAdapter
+SwipeAdapter解决item的position重复分布问题
